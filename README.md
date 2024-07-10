@@ -1,7 +1,7 @@
  
  # Data Structures and Algorithm
 
-![image description](https://www.channelnews.com.au/wp-content/uploads/2020/01/Self-Check-Out-Coles.jpg)
+![Algorithm1](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/assets/162090754/98076081-09af-4981-9529-d9b87629c5c9)
 
 # Overview
 
@@ -30,7 +30,7 @@ The purpose of this project is to gain a strong understanding of various data st
 To operate this supermarket system, you will need the following:
 
 - **Class Library(.NET Framework)**
-![image description]
+- ![NET](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/assets/162090754/b6777594-ddae-4d2a-8bcb-c2d6d0559822)
 
 <h2>Installation</h2>
 
