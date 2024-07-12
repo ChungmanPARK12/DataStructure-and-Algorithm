@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\박충만\\Desktop\\Port\\ChungmanPARK\\NUnitTest\\NUnitTest.csproj": {}
+    "C:\\Users\\박충만\\Desktop\\ClassLibrary\\DataStructure-and-Algorithm\\Algorithm_and_NUnitTest\\NUnitTest\\NUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\박충만\\Desktop\\Port\\ChungmanPARK\\Class_Library\\ClassLibrary.csproj": {
+    "C:\\Users\\박충만\\Desktop\\ClassLibrary\\DataStructure-and-Algorithm\\Algorithm_and_NUnitTest\\Class_Library\\ClassLibrary.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\박충만\\Desktop\\Port\\ChungmanPARK\\Class_Library\\ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\박충만\\Desktop\\ClassLibrary\\DataStructure-and-Algorithm\\Algorithm_and_NUnitTest\\Class_Library\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "C:\\Users\\박충만\\Desktop\\Port\\ChungmanPARK\\Class_Library\\ClassLibrary.csproj",
+        "projectPath": "C:\\Users\\박충만\\Desktop\\ClassLibrary\\DataStructure-and-Algorithm\\Algorithm_and_NUnitTest\\Class_Library\\ClassLibrary.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,14 +19,14 @@
         "net472": {}
       }
     },
-    "C:\\Users\\박충만\\Desktop\\Port\\ChungmanPARK\\NUnitTest\\NUnitTest.csproj": {
+    "C:\\Users\\박충만\\Desktop\\ClassLibrary\\DataStructure-and-Algorithm\\Algorithm_and_NUnitTest\\NUnitTest\\NUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\박충만\\Desktop\\Port\\ChungmanPARK\\NUnitTest\\NUnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\박충만\\Desktop\\ClassLibrary\\DataStructure-and-Algorithm\\Algorithm_and_NUnitTest\\NUnitTest\\NUnitTest.csproj",
         "projectName": "NUnitTest",
-        "projectPath": "C:\\Users\\박충만\\Desktop\\Port\\ChungmanPARK\\NUnitTest\\NUnitTest.csproj",
+        "projectPath": "C:\\Users\\박충만\\Desktop\\ClassLibrary\\DataStructure-and-Algorithm\\Algorithm_and_NUnitTest\\NUnitTest\\NUnitTest.csproj",
         "packagesPath": "C:\\Users\\박충만\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\박충만\\Desktop\\Port\\ChungmanPARK\\NUnitTest\\obj\\",
+        "outputPath": "C:\\Users\\박충만\\Desktop\\ClassLibrary\\DataStructure-and-Algorithm\\Algorithm_and_NUnitTest\\NUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -47,8 +47,8 @@
           "net472": {
             "targetAlias": "net472",
             "projectReferences": {
-              "C:\\Users\\박충만\\Desktop\\Port\\ChungmanPARK\\Class_Library\\ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\박충만\\Desktop\\Port\\ChungmanPARK\\Class_Library\\ClassLibrary.csproj"
+              "C:\\Users\\박충만\\Desktop\\ClassLibrary\\DataStructure-and-Algorithm\\Algorithm_and_NUnitTest\\Class_Library\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\박충만\\Desktop\\ClassLibrary\\DataStructure-and-Algorithm\\Algorithm_and_NUnitTest\\Class_Library\\ClassLibrary.csproj"
               }
             }
           }
