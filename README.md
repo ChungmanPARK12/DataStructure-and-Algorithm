@@ -144,6 +144,33 @@ Provides methods for sorting and searching arrays of Student objects, including 
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/Utility.git)
 
+# NUnit Testing
+
+<h2>NUnit Test Class</h2>
+
+ To test Some methods from the Program class, verifying expected outputs using assertions and capturing console output.
+
+* ### Example of Code 
+```C#
+  [Test]
+        public void TestSequentialSearch()
+        {
+            string Expected = "Result Found: 2";
+            using (var sw = new StringWriter())
+            {
+                Console.SetOut(sw);
+                Class_Library_Assignment.Program.TestSequentialSearch();
+
+                var result = sw.ToString().Trim();
+                Assert.AreEqual(Expected, result);
+            }
+        }
+```
+|Algorithim|Expected Output|Actual Output|Pass/Fail| 
+|--|--|--|--|
+|Sequential Search|Result Found 2|Result Found 2|Pass|
+
+
 ## Thank you
 
 Thank you for visiting my github :)
