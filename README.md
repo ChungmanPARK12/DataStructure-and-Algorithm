@@ -6,15 +6,15 @@
 # Overview
 
 <h2>Purpose</h2>
-The purpose of this project is to gain a strong understanding of various data structures and algorithms, learn how to implement and handle different methods and systems in C#, and test them using NUnit to ensure their correctness and efficiency.
+The purpose of this project is to gain a strong understanding of various data structures and algorithms, learn how to implement and handle different methods and systems in C# , and test them using NUnit to ensure their correctness and efficiency.
 
 <h2>Features</h2>
 
-- **Bubble Sort**
 - **Binary Search**
 - **Sequential Search**
+- **Bubble Sort**
 - **Linked List**
-- **Binary Tree**
+- **Binary Search Tree**
 - **NUnit Testing**
 
 <h2>Debugging Process</h2>
@@ -41,20 +41,18 @@ To operate this supermarket system, you will need the following:
 
 - **Clone the Repository**:
    ```bash
-   git clone https://github.com/ChungmanPARK12/SupermarketDAO.git
-   cd <python>
+   git https://github.com/ChungmanPARK12/DataStructure-and-Algorithm.git
+   cd <Algorithm_and_NUnitTest/Class_Library>
 
-# The concept of design
+# Alorithms
 
-The Supermarket Self-Service_Checkout made up of multiple parts.
+<h2>Binary Search</h2>
+A fast algorithm for finding a target value within a sorted array by repeatedly dividing the search interval in half, reducing time complexity to O(log n).
 
-<h2>Front end</h2>
 
-![image description](https://github.com/ChungmanPARK12/SupermarketDAO/assets/162090754/95d1f0d5-c846-4860-a753-9696b7457dd8)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/BinarySearch.git)
 
-* ### Supermarket Class
 
-This Class initializes a `Supermarket` class as a main, manages product scanning, processes payments, prints receipts, and saves transactions, simulating a supermarket checkout system.
 
 * ### Product Class
 
