@@ -52,32 +52,15 @@ A fast algorithm for finding a target value within a sorted array by repeatedly 
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/BinarySearch.git)
 
+<h2>Sequantial Search</h2>
+A linear search, involves checking each element of a list one-by-one until the target value is found or the list ends. It has a time complexity of O(n).
 
 
-* ### Product Class
-
-Defines a `Product` class with attributes for barcode, name, description, and price. Includes methods for printing details and comparing products by barcode.
-
-* ### Transactions Class
-
-Defines a `Transactions` class with attributes for date, barcode, and amount. Includes methods to retrieve the transaction date, barcode, and amount.
-
-* ### CheckoutRegister Class
-
-Defines a `CheckoutRegister` class to manage product scanning, payment processing, and transaction saving. Integrates with `SupermarketDAO` for database operations and handles shopping cart functionality.
-
-<h2>Back End</h2>
-
-![image description](https://github.com/ChungmanPARK12/SupermarketDAO/assets/162090754/d9e2a6e5-dacf-428f-ab48-50aa280b16b4)
-
-* ### SupermarketDAO
-
-Defines a `SupermarketDAO` class to manage supermarket data, including users, products, and transactions, using SQLite3 and OpenPyxl for database operations and report generation. 
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/SequentialSearch.git)
 
 
-* ### StartUp Login
 
-This Class manages the supermarket data with `SupermarketDAO`, offering user login, product management, transaction tracking, and report generation, including bar charts and Excel reports, using SQLite3 and OpenPyxl.
+
 
 ## Thank you
 
