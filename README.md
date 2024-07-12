@@ -120,12 +120,17 @@ A linear data structure where each node contains data and two references (or poi
         public DoubleLinkedListNode<T> Next { get; set; }
         public DoubleLinkedListNode<T> Previous { get; set; }
     }
-``` 
+```
+# Class 
+<h2>ICompareble Student Class Interface</h2>
 
+- **Properties: Program, DateRegistered, StudentId**
+- **Constructor: Initializes properties**
+- **Operators: ==, !=**
+- **Interfaces: Implements IComparable (Student)**
+- **Methods: Equals, GetHashCode, ToString**
 
-
-
-
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Student.git)
 
 ## Thank you
 
