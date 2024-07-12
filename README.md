@@ -13,6 +13,7 @@ The purpose of this project is to gain a strong understanding of various data st
 - **Binary Search**
 - **Sequential Search**
 - **Bubble Sort**
+- **Node**
 - **Linked List**
 - **Binary Search Tree**
 - **NUnit Testing**
@@ -64,6 +65,27 @@ A simple sorting algorithm that repeatedly steps through the list, compares adja
 * ### Ascending and Descending sort 
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/BubbleSort.git)
+
+<h2>Node</h2>
+A fundamental unit used to build linked lists, trees, and graphs. It typically contains data and references (or pointers) to other nodes, forming complex structures.
+
+### Traverse Pre Order
+* Visit the root node.
+* Traverse the left subtree.
+* Traverse the right subtree.
+
+### Traverse In Order
+* Traverse the left subtree.
+* Visit the root node.
+* Traverse the right subtree.
+
+### Traverse Post Order
+* Traverse the left subtree.
+* Traverse the right subtree.
+* Visit the root node.
+
+ ### Example of Code [Click here](https://github.com/ChungmanPARK12/BubbleSort.git)
+
 
 
 
