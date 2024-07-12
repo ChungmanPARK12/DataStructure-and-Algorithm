@@ -138,6 +138,12 @@ Demonstrates operations on data structures including arrays, single and double l
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/Program.git)
 
+<h2>Utility Class</h2>
+
+Provides methods for sorting and searching arrays of Student objects, including bubble sort (ascending and descending), binary and sequential search operations and the method of UNitTesting.
+
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Utility.git)
+
 ## Thank you
 
 Thank you for visiting my github :)
