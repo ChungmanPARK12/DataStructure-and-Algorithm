@@ -58,6 +58,13 @@ A linear search, involves checking each element of a list one-by-one until the t
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/SequentialSearch.git)
 
+<h2>Bubble Sort</h2>
+A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. This process is repeated until the list is sorted. Its time complexity is O(n²).
+
+* ### Ascending and Descending sort 
+
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/BubbleSort.git)
+
 
 
 
