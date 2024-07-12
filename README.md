@@ -86,6 +86,24 @@ A fundamental unit used to build linked lists, trees, and graphs. It typically c
 
  ### Example of Code [Click here](https://github.com/ChungmanPARK12/Node.git)
 
+ <h2>Single Linked List</h2>
+A linear data structure where each element (node) contains data and a reference (or pointer) to the next node in the sequence. The first node is called the head, and the last node points to null, indicating the end of the list.
+
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/SingleLinkedList.git)
+
+* ### Single Linked List Node
+```C#
+ public class SingleLinkedListNode<T>
+    {
+        public SingleLinkedListNode(T value)
+        {
+            Value = value;
+        }
+        public T Value { get; set; }
+        public SingleLinkedListNode<T> Next { get; set; }
+    }
+``` 
+
 
 
 
