@@ -132,6 +132,12 @@ A linear data structure where each node contains data and two references (or poi
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/Student.git)
 
+<h2>Program Class</h2>
+
+Demonstrates operations on data structures including arrays, single and double linked lists, and binary trees. It features methods for testing sequential search, binary search, bubble sort, and linked list manipulations.
+
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Program.git)
+
 ## Thank you
 
 Thank you for visiting my github :)
