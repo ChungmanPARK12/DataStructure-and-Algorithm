@@ -103,6 +103,24 @@ A linear data structure where each element (node) contains data and a reference 
         public SingleLinkedListNode<T> Next { get; set; }
     }
 ``` 
+<h2>Doubly Linked List</h2>
+A linear data structure where each node contains data and two references (or pointers): one to the next node and one to the previous node. This allows traversal in both directions *(forward and backward)*.
+
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/DoublyLinkedList.git)
+
+* ### Doubly Linked List Node
+```C#
+  public class DoubleLinkedListNode<T>
+    {
+        public DoubleLinkedListNode(T value)
+        {
+            Value = value;
+        }
+        public T Value { get; set; }
+        public DoubleLinkedListNode<T> Next { get; set; }
+        public DoubleLinkedListNode<T> Previous { get; set; }
+    }
+``` 
 
 
 
