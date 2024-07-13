@@ -20,7 +20,6 @@ The purpose of this project is to gain a strong understanding of various data st
 
 <h2>Debugging Process</h2>
 
-- **Code Review**: Regular reviews and tools like pylint and flake8 ensured code quality.
 - **Setting Breakpoints**: Set Breakpoints in the code to start debugging and pressing 'F5'.
 - **Stepping Through Code**: Use 'F10' to step over each line of code and 'F11' to step in to methods for detailed.
 - **Checking Output**: Utilize 'console.Writeline' statements to print variable and outputs.
