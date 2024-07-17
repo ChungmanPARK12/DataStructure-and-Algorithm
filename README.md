@@ -6,7 +6,8 @@
 # Overview
 
 <h2>Purpose</h2>
-The purpose of this project is to gain a strong understanding of various data structures and algorithms, learn how to implement and handle different methods and systems in C# , and test them using NUnit to ensure their correctness and efficiency.
+
+The purpose of this project is to gain a strong understanding of various data structures and algorithms, learn how to implement and handle different methods and systems in `C#` , and test them using NUnit to ensure their correctness and efficiency.
 
 <h2>Features</h2>
 
