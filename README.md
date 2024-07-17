@@ -170,6 +170,13 @@ Provides methods for sorting and searching arrays of Student objects, including 
 |--|--|--|--|
 |Sequential Search|Result Found 2|Result Found 2|Pass|
 
+## Summary
+
+## Summary
+
+This Data Structure and Algorithm project provides a comprehensive collection of essential algorithms and data structures. It includes implementations and explanations for sorting, searching, graphs, trees, and more. Designed for efficiency and clarity, this project serves as a valuable resource for learning and applying fundamental concepts in computer science.
+
+
 
 ## Thank you
 
