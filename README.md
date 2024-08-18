@@ -57,14 +57,14 @@ A fast algorithm for finding a target value within a sorted array by repeatedly 
 A linear search, involves checking each element of a list one-by-one until the target value is found or the list ends. It has a time complexity of O(n).
 
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/6de3939bafb2fb07649043b3f708fb4ea6d92d63/SequentialSearch)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/c49294151dae9807cf9c4ab2cc4c6bf60ef48261/src/SequentialSearch)
 
 <h2>Bubble Sort</h2>
 A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. This process is repeated until the list is sorted. Its time complexity is O(n²).
 
 * ### Ascending and Descending sort 
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/6de3939bafb2fb07649043b3f708fb4ea6d92d63/BubbleSort)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/c49294151dae9807cf9c4ab2cc4c6bf60ef48261/src/BubbleSort)
 
 <h2>Node</h2>
 A fundamental unit used to build linked lists, trees, and graphs. It typically contains data and references (or pointers) to other nodes, forming complex structures.
@@ -84,12 +84,12 @@ A fundamental unit used to build linked lists, trees, and graphs. It typically c
 * Traverse the right subtree.
 * Visit the root node.
 
- ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/6de3939bafb2fb07649043b3f708fb4ea6d92d63/Node)
+ ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/c49294151dae9807cf9c4ab2cc4c6bf60ef48261/src/Node)
 
  <h2>Single Linked List</h2>
 A linear data structure where each element (node) contains data and a reference (or pointer) to the next node in the sequence. The first node is called the head, and the last node points to null, indicating the end of the list.
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/6de3939bafb2fb07649043b3f708fb4ea6d92d63/SingleLinkedList)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/c49294151dae9807cf9c4ab2cc4c6bf60ef48261/src/SingleLinkedList)
 
 * ### Single Linked List Node
 ```C#
@@ -106,7 +106,7 @@ A linear data structure where each element (node) contains data and a reference 
 <h2>Doubly Linked List</h2>
 A linear data structure where each node contains data and two references (or pointers): one to the next node and one to the previous node. This allows traversal in both directions *(forward and backward)*.
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/6de3939bafb2fb07649043b3f708fb4ea6d92d63/DoublyLinkedList)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/c49294151dae9807cf9c4ab2cc4c6bf60ef48261/src/DoublyLinkedList)
 
 * ### Doubly Linked List Node
 ```C#
@@ -130,19 +130,19 @@ A linear data structure where each node contains data and two references (or poi
 - **Interfaces: Implements IComparable (Student)**
 - **Methods: Equals, GetHashCode, ToString**
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/6de3939bafb2fb07649043b3f708fb4ea6d92d63/Student)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/c49294151dae9807cf9c4ab2cc4c6bf60ef48261/src/Student)
 
 <h2>Program Class</h2>
 
 Demonstrates operations on data structures including arrays, single and double linked lists, and binary trees. It features methods for testing sequential search, binary search, bubble sort, and linked list manipulations.
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/6de3939bafb2fb07649043b3f708fb4ea6d92d63/Program)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/c49294151dae9807cf9c4ab2cc4c6bf60ef48261/src/Program)
 
 <h2>Utility Class</h2>
 
 Provides methods for sorting and searching arrays of Student objects, including bubble sort (ascending and descending), binary and sequential search operations and the method of UNitTesting.
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/6de3939bafb2fb07649043b3f708fb4ea6d92d63/Utility)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/c49294151dae9807cf9c4ab2cc4c6bf60ef48261/src/Utility)
 
 # NUnit Testing
 
