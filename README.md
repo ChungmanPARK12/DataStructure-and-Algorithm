@@ -51,7 +51,7 @@ To operate this supermarket system, you will need the following:
 A fast algorithm for finding a target value within a sorted array by repeatedly dividing the search interval in half, reducing time complexity to O(log n).
 
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/6de3939bafb2fb07649043b3f708fb4ea6d92d63/BinarySearch)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/93aa7d790a46d9e2847c3dd2c09ee65031b34c0f/src/BinarySearch)
 
 <h2>Sequantial Search</h2>
 A linear search, involves checking each element of a list one-by-one until the target value is found or the list ends. It has a time complexity of O(n).
