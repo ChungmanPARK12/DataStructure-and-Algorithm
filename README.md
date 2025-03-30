@@ -178,7 +178,7 @@ Provides methods for **sorting** and **searching** arrays of Student objects, in
 
 ## Summary
 
-This Data Structure and Algorithm project provides a comprehensive collection of essential **algorithms** and **data structures**. It includes implementations and explanations for **sorting**, **searching**, **graphs**, **trees**, and more. Designed for efficiency and clarity, this project serves as a valuable resource for learning and applying fundamental concepts in computer science.
+This project focuses on mastering algorithmic thinking and problem-solving through hands-on coding of classic **data structures** and **algorithms**. It emphasizes understanding time complexity, recursion, and algorithmic design patterns — serving as a personal coding reference for technical interviews and foundational computer science knowledge.
 
 ## Thank you
 
