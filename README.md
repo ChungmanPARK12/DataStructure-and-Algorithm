@@ -48,19 +48,25 @@ To operate this supermarket system, you will need the following:
 # Alorithms
 
 <h2>Binary Search</h2>
-A fast algorithm for finding a target value within a sorted array by repeatedly dividing the search interval in half, reducing time complexity to O(log n).
+An efficient search algorithm that locates a target value in a **sorted array** by repeatedly dividing the search range in half.  
 
+It significantly reduces the search time with a time complexity of **O(log n)**.
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/93aa7d790a46d9e2847c3dd2c09ee65031b34c0f/src/BinarySearch)
 
-<h2>Sequantial Search</h2>
-A linear search, involves checking each element of a list one-by-one until the target value is found or the list ends. It has a time complexity of O(n).
+<h2>Sequential Search</h2>
+Also known as **linear search**, this algorithm checks each element in a list one by one until the target value is found or the end of the list is reached.  
 
+It operates with a time complexity of **O(n)**.
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/c49294151dae9807cf9c4ab2cc4c6bf60ef48261/src/SequentialSearch)
 
 <h2>Bubble Sort</h2>
-A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. This process is repeated until the list is sorted. Its time complexity is O(n²).
+A basic sorting algorithm that repeatedly compares and swaps adjacent elements if they are in the wrong order.  
+
+The process continues until the entire list is sorted.
+
+Its time complexity is **O(n²)** in the worst case.
 
 * ### Ascending and Descending sort 
 
@@ -134,13 +140,13 @@ A linear data structure where each node contains data and two references (or poi
 
 <h2>Program Class</h2>
 
-Demonstrates operations on data structures including arrays, single and double linked lists, and binary trees. It features methods for testing sequential search, binary search, bubble sort, and linked list manipulations.
+Demonstrates operations on data structures including **arrays**, **single** and **double linked lists**, and **binary trees**. It features methods for testing **sequential search**, **binary search**, **bubble sort**, and **linked list** manipulations.
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/c49294151dae9807cf9c4ab2cc4c6bf60ef48261/src/Program)
 
 <h2>Utility Class</h2>
 
-Provides methods for sorting and searching arrays of Student objects, including bubble sort (ascending and descending), binary and sequential search operations and the method of UNitTesting.
+Provides methods for **sorting** and **searching** arrays of Student objects, including **bubble sort** (ascending and descending), **binary** and **sequential search** operations and the method of UNitTesting.
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/DataStructure-and-Algorithm/tree/c49294151dae9807cf9c4ab2cc4c6bf60ef48261/src/Utility)
 
@@ -172,9 +178,7 @@ Provides methods for sorting and searching arrays of Student objects, including 
 
 ## Summary
 
-This Data Structure and Algorithm project provides a comprehensive collection of essential algorithms and data structures. It includes implementations and explanations for sorting, searching, graphs, trees, and more. Designed for efficiency and clarity, this project serves as a valuable resource for learning and applying fundamental concepts in computer science.
-
-
+This Data Structure and Algorithm project provides a comprehensive collection of essential **algorithms** and **data structures**. It includes implementations and explanations for **sorting**, **searching**, **graphs**, **trees**, and more. Designed for efficiency and clarity, this project serves as a valuable resource for learning and applying fundamental concepts in computer science.
 
 ## Thank you
 
